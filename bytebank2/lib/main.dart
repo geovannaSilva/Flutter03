@@ -1,10 +1,6 @@
-import 'package:bytebank2/database/app_database.dart';
-import 'package:bytebank2/http/webclient.dart';
-import 'package:bytebank2/models/transaction.dart';
 import 'package:flutter/material.dart';
 import 'package:bytebank2/screens/dashboard.dart';
 
-import 'models/contact.dart';
 
 void main() {
   runApp(Bytebank2());
